@@ -8,4 +8,5 @@ Implementations of research papers in Machine Learning and Deep Learning
 - [Learning Internal Representation by Error Propagation](https://github.com/sammmeeeer/ML-DL-Paper-Implementations/tree/main/dnn)
 
 **Reference**:
-The papers are sources from [adam maj's deep-learning repository](https://github.com/adam-maj/deep-learning)
+- The papers are sourced from [adam maj's deep-learning repository](https://github.com/adam-maj/deep-learning), which provides a comprehensive list of research papers.
+- [History of Deep Learning](https://github.com/saurabhaloneai/History-of-Deep-Learning)
