@@ -1,0 +1,5 @@
+{
+  "learning_rate": 0.0003,
+  "output_dir": "out/modern",
+  "epochs": 23
+}
